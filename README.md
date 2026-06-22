@@ -1,1 +1,1 @@
-<img scr="images/Shanap.gif" alt="Shanap" width="500">
+<img scr="images/Shanap.png" alt="Shanap" width="500">
